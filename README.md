@@ -4,6 +4,7 @@
 <h3>Olá, eu sou Leonardo Rodrigues 👋</h3>
 
 - 🙇‍♀️ Sou estudante de Análise e Desenvolvimento de Sistemas.
+- ♨️ Futuro Java Back-end Developer.
 - 📫 Como chegar até mim: [Instagram](https://www.instagram.com/leon.rc99/), [LinkedIn](https://www.linkedin.com/in/leonardo-rcardozo/) e [E-mail](mailto:leonardo.rc999@gmail.com)
 <br>
 <br>
