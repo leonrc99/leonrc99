@@ -1,7 +1,7 @@
 <div>
   <img align="right" alt="SW-Gif" height="160" src="https://media.giphy.com/media/rHR8qP1mC5V3G/giphy.gif">
 </div>
-<h3>Olá, eu sou Leonardo Rodrigues 👋</h3>
+<h3>Olá, eu sou Leonardo Rodrigues Cardozo 👋</h3>
 
 - 🙇‍♀️ Sou estudante de Análise e Desenvolvimento de Sistemas.
 - ♨️ Futuro Java Back-end Developer.
